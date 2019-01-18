@@ -1,0 +1,40 @@
+
+- 'char', 'varchar', int, 'date', decimal(a, b) i.e. a.b
+
+- show databases;
+
+- use database_name;
+
+- select database();
+
+- create database database_name;
+
+- drop database database_name;
+
+- create table table_name (col1_name var(size), col2_name var(size));  
+
+- show tables;
+
+- insert into table_name values(--, -- , --);
+
+- desc student;                            // schema
+
+- starting with '^A'
+
+- starting with '^HO'
+
+- ending with y 'y$'
+
+- starting with vowel '^[aeiou]'
+
+- '.'  // any character
+
+- where sname Regexp 'ai|ae';
+
+- limit 10;
+
+- '^...$';
+
+- where sname Regexp '^[A-Z][A-Z][A-Z]$';        // $>^ in case of priority
+
+-

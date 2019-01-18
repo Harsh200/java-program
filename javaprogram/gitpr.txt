@@ -1,0 +1,5 @@
+git config --global user.name
+gti config --global user.name " username"
+git config --global user.name
+git config --global user.name
+git config --global user.mail "gmaila"
